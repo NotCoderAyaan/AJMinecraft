@@ -1,4 +1,4 @@
-from ursina import *
+from ursina import *    # pip install ursina
 from ursina.prefabs.first_person_controller import FirstPersonController
 
 
